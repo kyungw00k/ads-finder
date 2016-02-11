@@ -1,6 +1,6 @@
 {
   "name": "ads-finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find ads from web page",
   "main": "./index",
   "scripts": {
